@@ -88,42 +88,42 @@ Awesome projects
     - file command
     - usage
       - macOS
-      ```sh
-      file -I foo.txt
-      ```
+        ```sh
+        file -I foo.txt
+        ```
       - Linux, BSD
-      ```sh
-      file -i foo.txt
-      ```
+        ```sh
+        file -i foo.txt
+        ```
         - [documentation(Linux and BSD)](https://www.freebsd.org/cgi/man.cgi?query=file&manpath=FreeBSD+13.1-RELEASE+and+Ports)
 
 ### Copy file contents to clipboard
   - macOS
     - pbcopy
     - Usage
-    ```sh
-    pbcopy < foo.txt
-    ```
+      ```sh
+      pbcopy < foo.txt
+      ```
   - Linux
     - [xclip](https://github.com/astrand/xclip) - CLI tool for X11 clipboard
     - Usage
-    ```sh
-    xclip -sel c < foo.txt
-    ```
+      ```sh
+      xclip -sel c < foo.txt
+      ```
 
 ### Useful linux commands 
   - Check battery percentage
-    - ```sh
+    ```sh
     cat /sys/class/power_supply/BAT1/capacity
     ```
   - For Ubuntu, Fedora, openSUSE, and Arch
     - (These commands will not work on xfce)
     - Reboot linux without superuser permission
-      - ```sh
+      ```sh
       systemctl reboot -i
       ```
     - Suspend linux without superuser permission
-      - ```sh
+      ```sh
       systemctl suspend -i
       ```
 
