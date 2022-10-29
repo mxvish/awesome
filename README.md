@@ -2,12 +2,18 @@
 Awesome projects
 
 # Contents
+  <a href="#Internet">Internet</a><br>
+  <a href="#Multimedia">Multimedia</a><br>
+  <a href="#Utilities">Utilities</a><br>
+  <a href="#Documents and texts">Documents and texts</a><br>
+  <a href="#Others"></a><br>
 
+  -
+    -
+    - []() -
+  - []() -
 
 ## Internet 
-- Frontend
-  - [Tailblocks](https://tailblocks.cc/) - Ready-to-use CSS framework
-
 - Web Browser
   - [Brave](https://brave.com/) - A privacy oriented web browser and fork of chromium browser 
 - Chrome extensions
@@ -19,6 +25,9 @@ Awesome projects
   - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Vim keybinding shortcuts for efficient browsing
   - [YouTube Windowed FullScreen](https://chrome.google.com/webstore/detail/youtube-windowed-fullscre/gkkmiofalnjagdcjheckamobghglpdpm) - Always watch video in Full Screen
 
+- Frontend
+  - [Tailblocks](https://tailblocks.cc/) - Ready-to-use CSS framework
+
 - Web Server
   - [xampp](https://www.apachefriends.org/index.html) - A development environment with Apache, MariaDB, PHP, and Perl
 
@@ -29,7 +38,6 @@ Awesome projects
     `curl -s https://www.google.com | html2text`
 
 ## Multimedia
-
 - Audio Player
   - CLI
     - For Fedora(dnf) and Arch(pacman)
@@ -64,12 +72,10 @@ Awesome projects
 - Copy file contents to clipboard
   - macOS
     - pbcopy
-    - Usage
-      `pbcopy < foo.txt`
+    - Usage: `pbcopy < foo.txt`
   - Linux
     - [xclip](https://github.com/astrand/xclip) - CLI tool for X11 clipboard
-    - Usage
-      `xclip -sel c < foo.txt`
+    - Usage: `xclip -sel c < foo.txt`
 
 - Useful linux commands 
   - Check battery percentage
