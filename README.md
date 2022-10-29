@@ -20,7 +20,7 @@ Awesome projects
 -  <a href="#Copy-file-contents-to-clipboard">Copy file contents to clipboard</a><br>
 -  <a href="#Useful-linux-commands">Useful linux commands</a><br>
 
-<a href="#Documents and texts">Documents and texts</a><br>
+<a href="#Documents-and-texts">Documents and texts</a><br>
 -  <a href="#"></a><br>
 -  <a href="#"></a><br>
 -  <a href="#"></a><br>
