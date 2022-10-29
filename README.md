@@ -55,7 +55,9 @@ Awesome projects
   - [curl](https://curl.se/) - CLI tool to transfer data
   - [html2text](https://github.com/grobian/html2text) - HTML to text converter
   - Usage
-    `curl -s https://www.google.com | html2text`
+    ```sh
+    curl -s https://www.google.com | html2text
+    ```
 
 ## Multimedia
 ### Audio Player
@@ -85,27 +87,45 @@ Awesome projects
   - macOS, Linux, and BSD
     - file command
     - usage
-      - macOS `file -I foo.txt`
-      - Linux, BSD `file -i foo.txt`
+      - macOS
+      ```sh
+      file -I foo.txt
+      ```
+      - Linux, BSD
+      ```sh
+      file -i foo.txt
+      ```
         - [documentation(Linux and BSD)](https://www.freebsd.org/cgi/man.cgi?query=file&manpath=FreeBSD+13.1-RELEASE+and+Ports)
 
 ### Copy file contents to clipboard
   - macOS
     - pbcopy
-    - Usage: `pbcopy < foo.txt`
+    - Usage
+    ```sh
+    pbcopy < foo.txt
+    ```
   - Linux
     - [xclip](https://github.com/astrand/xclip) - CLI tool for X11 clipboard
-    - Usage: `xclip -sel c < foo.txt`
+    - Usage
+    ```sh
+    xclip -sel c < foo.txt
+    ```
 
 ### Useful linux commands 
   - Check battery percentage
-    - `cat /sys/class/power_supply/BAT1/capacity`
+    - ```sh
+    cat /sys/class/power_supply/BAT1/capacity
+    ```
   - For Ubuntu, Fedora, openSUSE, and Arch
     - (These commands will not work on xfce)
     - Reboot linux without superuser permission
-      - `systemctl reboot -i`
+      - ```sh
+      systemctl reboot -i
+      ```
     - Suspend linux without superuser permission
-      - `systemctl suspend -i`
+      - ```sh
+      systemctl suspend -i
+      ```
 
 ## Documents and texts
 ### Text Editor
