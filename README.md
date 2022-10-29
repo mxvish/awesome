@@ -26,6 +26,7 @@ Awesome projects
 
 <a href="#Others">Others</a><br>
 -  <a href="#Programming-language">Programming language</a><br>
+-  <a href="#Education">Education</a><br>
 -  <a href="#Operating-System">Operating System</a><br>
 -  <a href="#Display-Manager">Display Manager</a><br>
 
@@ -123,6 +124,11 @@ Awesome projects
   - [Python](https://www.python.org/) - Good readability
   - [Java](https://www.java.com/en/) - Its WORA(Write Once Run Anywhere) feature is pretty good
   - [Shell Script](https://www.gnu.org/software/bash/) - Widen ability of your programming skills and increase productivity
+
+### Education
+  - Free tutorial
+    - [w3schools](https://www.w3schools.com/) - Beginner friendly
+    - [javatpoint](https://www.javatpoint.com/) - Ready-to-use code examples. Intermediate
 
 ### Operating System
   - [Arch Linux](https://archlinux.org/) - A lightweight and extensible linux distro
