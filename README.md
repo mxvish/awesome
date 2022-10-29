@@ -21,19 +21,21 @@ Awesome projects
 -  <a href="#Useful-linux-commands">Useful linux commands</a><br>
 
 <a href="#Documents-and-texts">Documents and texts</a><br>
--  <a href="#"></a><br>
--  <a href="#"></a><br>
--  <a href="#"></a><br>
--  <a href="#"></a><br>
--  <a href="#"></a><br>
-<a href="#Others"></a><br>
+-  <a href="#Text-Editor">Text Editor</a><br>
+-  <a href="#Japanese-Input">Japanese Input</a><br>
 
+<a href="#Others">Others</a><br>
+-  <a href="#Programming-language">Programming language</a><br>
+-  <a href="#Operating-System">Operating System</a><br>
+-  <a href="#Display-Manager">Display Manager</a><br>
 
+<a href="#References">References</a><br>
+<a href="#Author">Author</a><br>
 
 ## Internet 
-- Web Browser
+### Web Browser
   - [Brave](https://brave.com/) - A privacy oriented web browser and fork of chromium browser 
-- Chrome extensions
+### Chrome extensions
   - [AHA Music](https://chrome.google.com/webstore/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf) - Song finder for audio playing in the current website(tab)
   - [Audio Only Youtube](https://chrome.google.com/webstore/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) - Hide video on YouTube
   - [Read Aloud](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp) - Learn language for free!
@@ -42,20 +44,20 @@ Awesome projects
   - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Vim keybinding shortcuts for efficient browsing
   - [YouTube Windowed FullScreen](https://chrome.google.com/webstore/detail/youtube-windowed-fullscre/gkkmiofalnjagdcjheckamobghglpdpm) - Always watch video in Full Screen
 
-- Frontend
+### Frontend
   - [Tailblocks](https://tailblocks.cc/) - Ready-to-use CSS framework
 
-- Web Server
+### Web Server
   - [xampp](https://www.apachefriends.org/index.html) - A development environment with Apache, MariaDB, PHP, and Perl
 
-- Web Scraping
+### Web Scraping
   - [curl](https://curl.se/) - CLI tool to transfer data
   - [html2text](https://github.com/grobian/html2text) - HTML to text converter
   - Usage
     `curl -s https://www.google.com | html2text`
 
 ## Multimedia
-- Audio Player
+### Audio Player
   - CLI
     - For Fedora(dnf) and Arch(pacman)
       - [mpg123](https://mpg123.de/)
@@ -65,20 +67,20 @@ Awesome projects
     - [VLC Media Player](https://www.videolan.org/vlc/) - A free media player
 
 ## Utilities
-- File manager
+### File manager
   - CLI
     - [ranger](https://github.com/ranger/ranger) - A file manager with vim keybindings
   - GUI
     - [thunar](https://github.com/xfce-mirror/thunar) - A lightweight file manager
 
-- Terminal emulator
+### Terminal emulator
   - [xfce4-terminal](https://docs.xfce.org/apps/xfce4-terminal/start) - A lightweight and premade terminal
 
-- Package Manager 
+### Package Manager 
   - macOS 
     - [Homebrew](https://brew.sh/) - A fast package manager
 
-- File encoding checker
+### File encoding checker
   - macOS, Linux, and BSD
     - file command
     - usage
@@ -86,7 +88,7 @@ Awesome projects
       - Linux, BSD `file -i foo.txt`
         - [documentation(Linux and BSD)](https://www.freebsd.org/cgi/man.cgi?query=file&manpath=FreeBSD+13.1-RELEASE+and+Ports)
 
-- Copy file contents to clipboard
+### Copy file contents to clipboard
   - macOS
     - pbcopy
     - Usage: `pbcopy < foo.txt`
@@ -94,7 +96,7 @@ Awesome projects
     - [xclip](https://github.com/astrand/xclip) - CLI tool for X11 clipboard
     - Usage: `xclip -sel c < foo.txt`
 
-- Useful linux commands 
+### Useful linux commands 
   - Check battery percentage
     - `cat /sys/class/power_supply/BAT1/capacity`
   - For Ubuntu, Fedora, openSUSE, and Arch
@@ -105,10 +107,10 @@ Awesome projects
       - `systemctl suspend -i`
 
 ## Documents and texts
-- Text Editor
+### Text Editor
   - [Vim](https://www.vim.org/) - Highly productive text editor
 
-- Japanese Input
+### Japanese Input
   - For Windows and macOS
     - [Google Japanese Input](https://www.google.co.jp/ime/)
   - For GNOME(Ubuntu, Fedora)
@@ -117,15 +119,15 @@ Awesome projects
     - `fcitx-mozc`
 
 ## Others
-- Programming language
+### Programming language
   - [Python](https://www.python.org/) - Good readability
   - [Java](https://www.java.com/en/) - Its WORA(Write Once Run Anywhere) feature is pretty good
   - [Shell Script](https://www.gnu.org/software/bash/) - Widen ability of your programming skills and increase productivity
 
-- Operating System
+### Operating System
   - [Arch Linux](https://archlinux.org/) - A lightweight and extensible linux distro
 
-- Display Manager
+### Display Manager
   - Linux
     - [xrandr](https://github.com/freedesktop/xorg-xrandr) - CLI tool for adjusting display brightness, location, rotation etc
 
