@@ -3,24 +3,24 @@ Awesome projects
 
 # Contents
 <a href="#Internet">Internet</a><br>
--  <a href="#Web Browser">Web Browser</a><br>
--  <a href="#Chrome extensions">Chrome extensions</a><br>
+-  <a href="#Web-Browser">Web Browser</a><br>
+-  <a href="#Chrome-extensions">Chrome extensions</a><br>
 -  <a href="#Frontend">Frontend</a><br>
--  <a href="#Web Server">Web Server</a><br>
--  <a href="#Web Scraping">Web Scraping</a><br>
+-  <a href="#Web-Server">Web Server</a><br>
+-  <a href="#Web-Scraping">Web Scraping</a><br>
 
 <a href="#Multimedia">Multimedia</a><br>
--  <a href="#Audio Player">Audio Player</a><br>
+-  <a href="#Audio-Player">Audio Player</a><br>
 
 <a href="#Utilities">Utilities</a><br>
--  <a href="#File manager">File manager</a><br>
--  <a href="#Terminal emulator">Terminal emulator</a><br>
--  <a href="#Package Manager">Package Manager</a><br>
--  <a href="#File encoding checker">File encoding checker</a><br>
--  <a href="#Copy file contents to clipboard">Copy file contents to clipboard</a><br>
--  <a href="#Useful linux commands">Useful linux commands</a><br>
+-  <a href="#File-manager">File manager</a><br>
+-  <a href="#Terminal-emulator">Terminal emulator</a><br>
+-  <a href="#Package-Manager">Package Manager</a><br>
+-  <a href="#File-encoding-checker">File encoding checker</a><br>
+-  <a href="#Copy-file-contents-to-clipboard">Copy file contents to clipboard</a><br>
+-  <a href="#Useful-linux-commands">Useful linux commands</a><br>
 
-<a href="#Documents and texts">Documents and texts</a><br>
+<a href="#Documents-and-texts">Documents and texts</a><br>
 -  <a href="#"></a><br>
 -  <a href="#"></a><br>
 -  <a href="#"></a><br>
