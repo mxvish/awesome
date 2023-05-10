@@ -40,10 +40,8 @@ Awesome projects
   - [AHA Music](https://chrome.google.com/webstore/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf) - Song finder for audio playing in the current website(tab)
   - [Audio Only Youtube](https://chrome.google.com/webstore/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) - Hide video on YouTube
   - [Read Aloud](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp) - Learn language for free!
-  - [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) - Hide specific sites from google search result
   - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Best content blocker
   - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Vim keybinding shortcuts for efficient browsing
-  - [YouTube Windowed FullScreen](https://chrome.google.com/webstore/detail/youtube-windowed-fullscre/gkkmiofalnjagdcjheckamobghglpdpm) - Always watch video in Full Screen
 
 ### Frontend
   - [Tailblocks](https://tailblocks.cc/) - Ready-to-use CSS framework
@@ -62,10 +60,7 @@ Awesome projects
 ## Multimedia
 ### Audio Player
   - CLI
-    - For Fedora(dnf) and Arch(pacman)
-      - [mpg123](https://mpg123.de/)
-    - For macOS(Homebrew), Ubuntu, Debian based Linux and Raspberry Pi(apt)
-      - [mpg321](https://mpg321.sourceforge.net/)
+    - [mpg123](https://mpg123.de/)
   - GUI
     - [VLC Media Player](https://www.videolan.org/vlc/) - A free media player
 
@@ -73,8 +68,6 @@ Awesome projects
 ### File manager
   - CLI
     - [ranger](https://github.com/ranger/ranger) - A file manager with vim keybindings
-  - GUI
-    - [thunar](https://github.com/xfce-mirror/thunar) - A lightweight file manager
 
 ### Terminal emulator
   - [xfce4-terminal](https://docs.xfce.org/apps/xfce4-terminal/start) - A lightweight and premade terminal
@@ -156,9 +149,6 @@ Awesome projects
 ### Display Manager
   - Linux
     - [xrandr](https://github.com/freedesktop/xorg-xrandr) - CLI tool for adjusting display brightness, location, rotation etc
-
-# References
-[List of applications - ArchWiki](https://wiki.archlinux.org/title/List_of_applications)
 
 # Author
 - [Kenta Oshima](https://github.com/mxvish) - [Issues](https://github.com/mxvish/awesome/issues) and [PRs](https://github.com/mxvish/awesome/issues) are welcome!
