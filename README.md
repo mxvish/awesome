@@ -46,9 +46,6 @@ Awesome projects
 ### Frontend
   - [Tailblocks](https://tailblocks.cc/) - Ready-to-use CSS framework
 
-### Web Server
-  - [xampp](https://www.apachefriends.org/index.html) - A development environment with Apache, MariaDB, PHP, and Perl
-
 ### Web Scraping
   - [curl](https://curl.se/) - CLI tool to transfer data
   - [html2text](https://github.com/grobian/html2text) - HTML to text converter
