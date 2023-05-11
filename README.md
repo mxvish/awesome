@@ -84,11 +84,10 @@ Awesome projects
         ```sh
         file -I foo.txt
         ```
-      - Linux, BSD
+      - [Linux, BSD](https://www.freebsd.org/cgi/man.cgi?query=file&manpath=FreeBSD+13.1-RELEASE+and+Ports)
         ```sh
         file -i foo.txt
         ```
-        - [documentation(Linux and BSD)](https://www.freebsd.org/cgi/man.cgi?query=file&manpath=FreeBSD+13.1-RELEASE+and+Ports)
 
 ### Copy file contents to clipboard
   - macOS
