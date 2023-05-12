@@ -43,9 +43,6 @@ Awesome projects
   - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Best content blocker
   - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Vim keybinding shortcuts for efficient browsing
 
-### Frontend
-  - [Tailblocks](https://tailblocks.cc/) - Ready-to-use CSS framework
-
 ### Web Scraping
   - [curl](https://curl.se/) - CLI tool to transfer data
   - [html2text](https://github.com/grobian/html2text) - HTML to text converter
