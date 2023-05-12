@@ -5,8 +5,6 @@ Awesome projects
 <a href="#Internet">Internet</a><br>
 -  <a href="#Web-Browser">Web Browser</a><br>
 -  <a href="#Chrome-extensions">Chrome extensions</a><br>
--  <a href="#Frontend">Frontend</a><br>
--  <a href="#Web-Server">Web Server</a><br>
 -  <a href="#Web-Scraping">Web Scraping</a><br>
 
 <a href="#Multimedia">Multimedia</a><br>
