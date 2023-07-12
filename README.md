@@ -58,8 +58,6 @@ Awesome projects
 ### Audio Player
   - CLI
     - [mpg123](https://mpg123.de/)
-  - GUI
-    - [VLC Media Player](https://www.videolan.org/vlc/) - A free media player
 
 ## Utilities
 ### File manager
