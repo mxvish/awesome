@@ -136,6 +136,8 @@ Awesome projects
   - Free tutorial
     - [w3schools](https://www.w3schools.com/) - Beginner friendly
     - [javatpoint](https://www.javatpoint.com/) - Ready-to-use code examples. Intermediate
+  - Cheatsheets
+    - [OverAPI.com](https://overapi.com/) - Free cheatsheets collection
 
 ### Operating System
   - [Arch Linux](https://archlinux.org/) - A lightweight and extensible linux distro
