@@ -36,6 +36,7 @@ Awesome projects
   - [Brave](https://brave.com/) - A privacy oriented web browser and fork of chromium browser 
 ### Chrome extensions
   - [AHA Music](https://chrome.google.com/webstore/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf) - Song finder for audio playing in the current website(tab)
+  - [Always Show Slack Workspace Switcher Sidebar](https://chrome.google.com/webstore/detail/always-show-slack-workspa/diebigeemhcipelnipggjihcmgjlacge) - Use slack on web browser like desktop app
   - [Audio Only Youtube](https://chrome.google.com/webstore/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) - Hide video on YouTube
   - [Classic Cache Killer](https://chrome.google.com/webstore/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp) - Clean cache to speed up web browser
   - [Grayscale the Web - Save Sites](https://chrome.google.com/webstore/detail/grayscale-the-web-save-si/mblmpdpfppogibmoobibfannckeeleag) - Browse website in monochrome to make the most of volition
