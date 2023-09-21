@@ -41,11 +41,13 @@ Awesome projects
   - [Classic Cache Killer](https://chrome.google.com/webstore/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp) - Clean cache to speed up web browser
   - [Grayscale the Web - Save Sites](https://chrome.google.com/webstore/detail/grayscale-the-web-save-si/mblmpdpfppogibmoobibfannckeeleag) - Browse website in monochrome to make the most of volition
   - [Hide YouTube Thumbnails](https://chrome.google.com/webstore/detail/hide-youtube-thumbnails/phmcfcbljjdlomoipaffekhgfnpndbef?hl=en) - You do not need to see fancy thumbnails to watch youtube videos
+  - [Lunar Reader](https://chrome.google.com/webstore/detail/lunar-reader-dark-theme-n/pifalnbglchfojkfmechjalgbjoodlpg) - Dark theme for every website
   - [Read Aloud](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp) - Learn language for free!
   - [Screen Shader | Smart Screen Tinting](https://chrome.google.com/webstore/detail/screen-shader-smart-scree/fmlboobidmkelggdainpknloccojpppi) - Reduce [high-energy visible light](https://en.wikipedia.org/wiki/Biological_effects_of_high-energy_visible_light) for better sleep
   - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Best content blocker
   - [Unhook - Remove YouTube Recommended Videos](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) - Choose which section we see on youtube
   - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Vim keybinding shortcuts for efficient browsing
+  - [Wizmage Image Hider](https://chrome.google.com/webstore/detail/wizmage-image-hider/ifoggbfaoakkojipahnplnbfnhhhnmlp) - Show less contents to focus on what it matters
 
 ### Web Scraping
   - [curl](https://curl.se/) - CLI tool to transfer data
