@@ -40,6 +40,7 @@ Awesome projects
   - [Audio Only Youtube](https://chrome.google.com/webstore/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) - Hide video on YouTube
   - [Auto History Wipe](https://chromewebstore.google.com/detail/auto-history-wipe/jmbmmokoibgcdhnpopjlkdaeoppffpno?pli=1) - Delete history on exit
   - [Classic Cache Killer](https://chrome.google.com/webstore/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp) - Clean cache to speed up web browser
+  - [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) - Save webpage as PDF or image
   - [Grayscale the Web - Save Sites](https://chrome.google.com/webstore/detail/grayscale-the-web-save-si/mblmpdpfppogibmoobibfannckeeleag) - Browse website in monochrome to make the most of volition
   - [Hide YouTube Thumbnails](https://chrome.google.com/webstore/detail/hide-youtube-thumbnails/phmcfcbljjdlomoipaffekhgfnpndbef?hl=en) - You do not need to see fancy thumbnails to watch youtube videos
   - [Lunar Reader](https://chrome.google.com/webstore/detail/lunar-reader-dark-theme-n/pifalnbglchfojkfmechjalgbjoodlpg) - Dark theme for every website
