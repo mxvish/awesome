@@ -5,6 +5,7 @@ Awesome projects
 <a href="#Internet">Internet</a><br>
 -  <a href="#Web-Browser">Web Browser</a><br>
 -  <a href="#Chrome-extensions">Chrome extensions</a><br>
+- [Firefox extensions](#firefox-extensions)
 -  <a href="#Web-Scraping">Web Scraping</a><br>
 
 <a href="#Multimedia">Multimedia</a><br>
@@ -51,6 +52,9 @@ Awesome projects
   - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Vim keybinding shortcuts for efficient browsing
   - [Wizmage Image Hider](https://chrome.google.com/webstore/detail/wizmage-image-hider/ifoggbfaoakkojipahnplnbfnhhhnmlp) - Show less contents to focus on what it matters
 
+### Firefox extensions
+  - [Vimium](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
+    
 ### Web Scraping
   - [curl](https://curl.se/) - CLI tool to transfer data
   - [html2text](https://github.com/grobian/html2text) - HTML to text converter
