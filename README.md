@@ -54,7 +54,7 @@ Awesome projects
 
 ### Firefox extensions
   - [Hide Images (Opacity)](https://addons.mozilla.org/en-US/firefox/addon/hide-images-opacity/) - Show or hide images for each website
-  - [Vimium](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
+  - [Vimium](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) - Improve productivity using vim keybindings
     
 ### Web Scraping
   - [curl](https://curl.se/) - CLI tool to transfer data
