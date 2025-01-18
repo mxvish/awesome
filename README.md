@@ -53,6 +53,7 @@ Awesome projects
   - [Wizmage Image Hider](https://chrome.google.com/webstore/detail/wizmage-image-hider/ifoggbfaoakkojipahnplnbfnhhhnmlp) - Show less contents to focus on what it matters
 
 ### Firefox extensions
+  - [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/) - Customize appearance and features of youtube
   - [Hide Images (Opacity)](https://addons.mozilla.org/en-US/firefox/addon/hide-images-opacity/) - Show or hide images for each website
   - [Vimium](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) - Improve productivity using vim keybindings
     
