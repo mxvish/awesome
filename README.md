@@ -55,6 +55,7 @@ Awesome projects
 ### Firefox extensions
   - [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/) - Customize appearance and features of youtube
   - [Hide Images (Opacity)](https://addons.mozilla.org/en-US/firefox/addon/hide-images-opacity/) - Show or hide images for each website
+  - [Song Identifier](https://addons.mozilla.org/en-US/firefox/addon/song-identifier/) - Check song name playing in the tab
   - [Vimium](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) - Improve productivity using vim keybindings
     
 ### Web Scraping
